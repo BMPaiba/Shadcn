@@ -5,7 +5,10 @@ import Link from "next/link";
 
 const links = [
   { name: "accordion", href: "accordion" },
+  { name: "button", href: "button" },
   { name: "alert", href: "alert" },
+  { name: "theme", href: "theme" },
+  { name: "form", href: "form" },
 ];
 
 export default function DashboardLayout({
